@@ -1,0 +1,62 @@
+Here’s a refined and developer-friendly version of your prompt that balances clarity, structure, and emotional tone—perfect for guiding a Node + React build or feeding into an AI code generator:
+
+---
+
+## 🏡 Project Brief: Trappers Point Showcase Website
+
+**Goal**: Build a professional, visually compelling showcase website for a private lakefront home at **1234 Trappers Point, Fort Collins**, which will be listed for sale in approximately one year.
+
+**Tech Stack**: Node.js backend + React frontend. Optional: TailwindCSS or styled-components for styling.
+
+---
+
+### 🔥 Hero Section
+- **Feature**: Full-screen background image slideshow (4–5 images) with smooth fade transitions.
+- **Overlay Text**: Key property highlights:
+  - 3+ acres of lakefront land
+  - High-end custom architecture
+  - 4 fireplaces, 4-hinge solid wood doors
+  - Loafing shed + paddock for horses
+  - Close to town, but secluded
+  - 40 minutes to Denver International Airport
+  - 20 minutes to Rocky Mountain foothills
+  - Irrigation rights from private lake
+
+---
+
+### 📊 Property Specs Section
+- Display key data points in a clean, responsive layout:
+  - Square footage
+  - Lot size
+  - Average monthly utilities
+  - Annual property taxes
+  - School district(s)
+  - Estimated property value (average of 3 sources)
+
+---
+
+### 🖼️ Photo Galleries
+Each gallery should use a responsive grid layout with modal functionality (click to enlarge, with prev/next/close controls). No captions needed.
+
+- **Interior Photos**
+- **Exterior Photos**
+- **Lake Photos**
+
+---
+
+### 🌅 Lakeside Living Section
+A visually rich, emotionally resonant section that celebrates the lifestyle:
+- Panoramic lake views
+- Therapeutic benefits of water proximity
+- Peaceful, private, and ever-changing natural beauty
+- “Like having your own 24/7 nature documentary”
+
+---
+
+### 📬 Contact Section
+Simple contact block with email:
+- `trapperspoint@gennetten.com`
+
+---
+
+Would you like me to scaffold the React components or suggest a folder structure for this? I can also help write the copy for the “Lakeside Living” section if you want it to feel poetic or persuasive.
